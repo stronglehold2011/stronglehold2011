@@ -17,3 +17,5 @@
   <img src="https://image.pngaaa.com/676/7258676-middle.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </div>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stronglehold2011&theme=dark&background=000000)](https://git.io/streak-stats)
