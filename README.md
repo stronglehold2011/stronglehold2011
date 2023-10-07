@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif"/>
+</div>
+
 Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Рома
 ============================================================================================================================
 
@@ -18,4 +22,5 @@
   <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </div>
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stronglehold2011&theme=dark&background=000000)](https://git.io/streak-stats)
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stronglehold2011&theme=dark&background=000000)](https://git.io/streak-stats)
