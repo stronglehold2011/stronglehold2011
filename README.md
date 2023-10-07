@@ -1,16 +1,19 @@
-### Hi there 👋
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Рома
+============================================================================================================================
 
-<!--
-**stronglehold2011/stronglehold2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Обо мне: Люблю тестирование ПО и все, что с ним связано.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  Я живу в Санкт-Петербурге
+* ✉️  Ты можешь связаться со мной [stronglehold2011@yandex.ru](mailto:stronglehold2011@yandex.ru)
+### :hammer_and_wrench: skills and tools :
+ <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira " width="40" height="40"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/101/660/png-transparent-computer-icons-html-web-design-web-development-web-design-angle-web-design-text.png"  title="html" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://image.pngaaa.com/676/7258676-middle.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+</div>
